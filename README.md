@@ -1,6 +1,6 @@
 # API Doação de Livros 
 
-Essa é uma API simples feita com Flas e SQLITE3 para fins de estudo da escola Vai Na Wb, ela permite cadstrar e listar livros doados
+Essa é uma API simples feita com Flask e SQLITE3 para fins de estudo da escola Vai Na Wb, ela permite cadstrar e listar livros doados
 
 ## Como rodar o projeto 
 
